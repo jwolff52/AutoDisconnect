@@ -1,0 +1,5 @@
+name: AutoDisconnect
+main: me.kingdomscraft.autodisconnect.AutoDisconnect
+description: Atomatically kicks all users on join sending them a custom message defined in the config.yml
+version: 1.2
+        
